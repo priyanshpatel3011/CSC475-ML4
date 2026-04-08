@@ -1,0 +1,2681 @@
+{
+  "autocorrelation": {
+    "3605780": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 4.113136999999938,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "907837": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06290819999992436,
+      "estimated_tempo": 169.64824120603015,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3661855": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.09641580000004524,
+      "estimated_tempo": 84.22110552763819,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3169408": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.060935200000017176,
+      "estimated_tempo": 111.35678391959799,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4411925": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05342560000008234,
+      "estimated_tempo": 87.23618090452261,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4163571": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.058746499999983826,
+      "estimated_tempo": 53.065326633165824,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4543103": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05458829999997761,
+      "estimated_tempo": 64.12060301507537,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "344470": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06030810000004294,
+      "estimated_tempo": 119.39698492462311,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3883902": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05705650000004425,
+      "estimated_tempo": 125.42713567839195,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3443201": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05668700000001081,
+      "estimated_tempo": 134.47236180904522,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1960598": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.052767499999959,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3678548": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0565319999999474,
+      "estimated_tempo": 64.12060301507537,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4166222": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05378860000007535,
+      "estimated_tempo": 61.10552763819095,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3886051": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05568059999995967,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "825292": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05484519999993154,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3509304": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06129079999993792,
+      "estimated_tempo": 87.23618090452261,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1889844": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05156529999999293,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3942754": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05575710000005074,
+      "estimated_tempo": 146.5326633165829,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3475672": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.056256700000062665,
+      "estimated_tempo": 86.23115577889448,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4845088": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05381399999998848,
+      "estimated_tempo": 119.39698492462311,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "368533": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05442239999990761,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4120277": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05311749999998483,
+      "estimated_tempo": 64.12060301507537,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4416962": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05422469999996338,
+      "estimated_tempo": 131.4572864321608,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3230477": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06062170000006972,
+      "estimated_tempo": 101.30653266331657,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "942357": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05594229999996969,
+      "estimated_tempo": 84.22110552763819,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4696505": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05629609999994045,
+      "estimated_tempo": 53.065326633165824,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3267829": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05308049999996456,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2013128": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05640610000000379,
+      "estimated_tempo": 125.42713567839195,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3674961": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05433809999999539,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3435022": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0554140000000416,
+      "estimated_tempo": 64.12060301507537,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4029970": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.059470999999916785,
+      "estimated_tempo": 142.51256281407035,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4091609": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05591529999992417,
+      "estimated_tempo": 40.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3226180": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.056707100000039645,
+      "estimated_tempo": 119.39698492462311,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4047428": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.07108100000004924,
+      "estimated_tempo": 64.12060301507537,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4403315": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05778370000007271,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5315510": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.09312820000002375,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5258365": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05712340000002314,
+      "estimated_tempo": 146.5326633165829,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2726353": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05781149999995705,
+      "estimated_tempo": 64.12060301507537,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "691688": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05490429999997559,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2088277": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05471050000005562,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3789981": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0636707999999544,
+      "estimated_tempo": 40.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3493047": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.056235300000025745,
+      "estimated_tempo": 70.15075376884423,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1791554": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05335309999998117,
+      "estimated_tempo": 125.42713567839195,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1982430": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05493019999994431,
+      "estimated_tempo": 125.42713567839195,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3368054": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.054007199999887234,
+      "estimated_tempo": 84.22110552763819,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5024644": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05665649999991729,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4044590": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.055578100000047925,
+      "estimated_tempo": 99.2964824120603,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3807114": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.054323199999998906,
+      "estimated_tempo": 83.21608040201005,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4823611": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.053128399999991416,
+      "estimated_tempo": 84.22110552763819,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2083969": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05330349999996997,
+      "estimated_tempo": 70.15075376884423,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4117487": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.053199899999981426,
+      "estimated_tempo": 84.22110552763819,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3088145": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05401610000001256,
+      "estimated_tempo": 63.11557788944724,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4711578": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.052198299999986375,
+      "estimated_tempo": 87.23618090452261,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4416336": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05771760000004633,
+      "estimated_tempo": 181.70854271356782,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1753073": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05339770000000499,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3660450": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.053534199999944576,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5204781": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05247620000000097,
+      "estimated_tempo": 202.81407035175877,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4017611": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05390130000000681,
+      "estimated_tempo": 73.16582914572864,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4035020": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05831630000000132,
+      "estimated_tempo": 122.41206030150752,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2725352": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.054715500000042994,
+      "estimated_tempo": 93.26633165829145,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4122833": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05438860000003842,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2704868": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05649319999997715,
+      "estimated_tempo": 64.12060301507537,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "907836": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05258880000008048,
+      "estimated_tempo": 87.23618090452261,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4004314": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05252829999994901,
+      "estimated_tempo": 40.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3460094": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05479030000003604,
+      "estimated_tempo": 84.22110552763819,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3211234": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05543199999999615,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5356489": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05709769999998571,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4012083": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05445570000006228,
+      "estimated_tempo": 164.62311557788945,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "861484": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05412269999999353,
+      "estimated_tempo": 58.09045226130653,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3220340": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05602400000009311,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1120171": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05334970000001249,
+      "estimated_tempo": 58.09045226130653,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3725208": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06740700000000288,
+      "estimated_tempo": 169.64824120603015,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5102537": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05573170000002392,
+      "estimated_tempo": 122.41206030150752,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4386702": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05435139999997318,
+      "estimated_tempo": 125.42713567839195,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3480108": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05734509999990678,
+      "estimated_tempo": 128.44221105527637,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4264359": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.08455930000002354,
+      "estimated_tempo": 84.22110552763819,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "906760": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.07250260000000708,
+      "estimated_tempo": 71.15577889447236,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3391054": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05991480000000138,
+      "estimated_tempo": 195.7788944723618,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4861484": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.051755399999933616,
+      "estimated_tempo": 169.64824120603015,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1479462": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.054647799999997915,
+      "estimated_tempo": 45.0251256281407,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5195826": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05254339999999047,
+      "estimated_tempo": 87.23618090452261,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4566667": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05726709999999002,
+      "estimated_tempo": 128.44221105527637,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3520036": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05525770000008379,
+      "estimated_tempo": 119.39698492462311,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3475669": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05671519999998509,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2706792": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05572009999991678,
+      "estimated_tempo": 169.64824120603015,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1556416": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05631800000003295,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1560729": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05136600000003,
+      "estimated_tempo": 122.41206030150752,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4275052": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05384030000004714,
+      "estimated_tempo": 125.42713567839195,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5117279": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05312539999999899,
+      "estimated_tempo": 119.39698492462311,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2676246": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05524769999999535,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4773857": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06729310000002897,
+      "estimated_tempo": 138.49246231155777,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2726355": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.07070539999995162,
+      "estimated_tempo": 64.12060301507537,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3151015": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.059123099999965234,
+      "estimated_tempo": 58.09045226130653,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3482733": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06039290000001074,
+      "estimated_tempo": 169.64824120603015,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3593643": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06399829999998019,
+      "estimated_tempo": 169.64824120603015,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3711752": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.062101200000029166,
+      "estimated_tempo": 131.4572864321608,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1461087": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.058493600000019796,
+      "estimated_tempo": 87.23618090452261,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2992360": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.054916299999945295,
+      "estimated_tempo": 122.41206030150752,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "906681": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.052631700000006276,
+      "estimated_tempo": 169.64824120603015,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    }
+  },
+  "state_space": {
+    "3605780": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05080190000001039,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "907837": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06202369999994062,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3661855": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.044468800000004194,
+      "estimated_tempo": 84.72079918032786,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3169408": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04439830000001166,
+      "estimated_tempo": 112.34714673913038,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4411925": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.042081499999994776,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4163571": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.043424799999911556,
+      "estimated_tempo": 105.46874999999999,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4543103": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0436666000000514,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "344470": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04048760000000584,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3883902": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.048049900000023626,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3443201": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04107930000009219,
+      "estimated_tempo": 84.72079918032786,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1960598": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04680970000003981,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3678548": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0440637000000379,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4166222": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04225939999992079,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3886051": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04120899999998073,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "825292": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04903409999997166,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3509304": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04048399999999219,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1889844": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04140240000003814,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3942754": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04436279999993076,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3475672": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.042301099999917824,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4845088": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0404095999999754,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "368533": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04269339999996191,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4120277": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04172860000005585,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4416962": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.040088500000024396,
+      "estimated_tempo": 132.51201923076925,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3230477": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04211550000002262,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "942357": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04050439999991795,
+      "estimated_tempo": 84.72079918032786,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4696505": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04169409999997242,
+      "estimated_tempo": 105.46874999999999,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3267829": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.041963500000065324,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2013128": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04005770000003395,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3674961": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.040223800000035226,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3435022": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0442644999999402,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4029970": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.044463199999995595,
+      "estimated_tempo": 84.72079918032786,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4091609": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04032829999994192,
+      "estimated_tempo": 40.061773255813954,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3226180": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05284319999998388,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4047428": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04574590000004264,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4403315": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04301880000002711,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5315510": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04583950000005643,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5258365": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04161209999995208,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2726353": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04291890000001786,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "691688": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04215580000004593,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2088277": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.042769600000042374,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3789981": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04095150000000558,
+      "estimated_tempo": 40.061773255813954,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3493047": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04395620000002509,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1791554": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.040703000000007705,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1982430": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04277720000004592,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3368054": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05173289999993358,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5024644": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04655349999995906,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4044590": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04363449999993918,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3807114": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04353370000001178,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4823611": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0431032999999843,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2083969": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04372749999993175,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4117487": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.047647500000039145,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3088145": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04367560000002868,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4711578": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04041610000001583,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4416336": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04624309999996967,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1753073": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04292669999995269,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3660450": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04399960000000647,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5204781": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04341240000007929,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4017611": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04234180000003107,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4035020": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04208490000007714,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2725352": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04482050000001436,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4122833": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04476399999998648,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2704868": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04701249999993706,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "907836": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.056453600000054394,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4004314": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06807310000010602,
+      "estimated_tempo": 40.061773255813954,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3460094": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05843779999997878,
+      "estimated_tempo": 84.72079918032786,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3211234": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05796349999991435,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5356489": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.056116999999971995,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4012083": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.04780730000004496,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "861484": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05024659999992309,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3220340": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05481269999995675,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1120171": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.10869700000000648,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3725208": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.07923400000004222,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5102537": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06991340000001856,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4386702": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.07385839999994914,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3480108": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0578342999999677,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4264359": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05299730000001546,
+      "estimated_tempo": 84.72079918032786,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "906760": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.051952799999980925,
+      "estimated_tempo": 84.72079918032786,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3391054": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.069649199999958,
+      "estimated_tempo": 99.38401442307693,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4861484": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05286609999996017,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1479462": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.048733699999957025,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5195826": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06050260000006347,
+      "estimated_tempo": 67.99958881578947,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4566667": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06931020000001809,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3520036": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.046607300000005125,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3475669": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05074980000006235,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2706792": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.14228479999997035,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1556416": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.09574489999999969,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1560729": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.08570299999996678,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4275052": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.11225290000004406,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5117279": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06533990000002632,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2676246": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.07185149999997975,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4773857": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0922813000000815,
+      "estimated_tempo": 139.6748310810811,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2726355": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.09030239999992773,
+      "estimated_tempo": 129.19921875,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3151015": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06328849999999875,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3482733": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.08560289999991255,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3593643": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06649429999993117,
+      "estimated_tempo": 92.28515625,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3711752": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.05294920000005732,
+      "estimated_tempo": 132.51201923076925,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1461087": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.06053949999989072,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2992360": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.053894300000024487,
+      "estimated_tempo": 246.09375,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "906681": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.056940299999951094,
+      "estimated_tempo": 87.59269067796612,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    }
+  },
+  "dbn": {
+    "3605780": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005291999999599284,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "907837": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004934000000957894,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3661855": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005152000001089618,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3169408": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005333000000291577,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4411925": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005612999999584645,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4163571": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005203000000619795,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4543103": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.000522499999988213,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "344470": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004721999999901527,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3883902": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.000621600000044964,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3443201": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006697999999687454,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1960598": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.000643299999978808,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3678548": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005879000000277301,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4166222": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004906000000346467,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3886051": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005089999999654538,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "825292": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005065000000286091,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3509304": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0007374000000481828,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1889844": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005328999999392181,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3942754": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005195999999614287,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3475672": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004983000000038373,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4845088": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.000469199999997727,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "368533": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004567999999380845,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4120277": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0008085000000619402,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4416962": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0007912999999462045,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3230477": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0012027000000216503,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "942357": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0010217999999895255,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4696505": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.001093400000058864,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3267829": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006902999999738313,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2013128": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006141000000070562,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3674961": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0007842999999638778,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3435022": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0007338000000345346,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4029970": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0007166999999981272,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4091609": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0009987999999339081,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3226180": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0011729999999943175,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4047428": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005919000000176311,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4403315": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004731000000219865,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5315510": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005305000000817017,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5258365": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004901000000927525,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2726353": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005110999999260457,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "691688": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004612999999835665,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2088277": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004617000000735061,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3789981": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006593000000520988,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3493047": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005264999999781139,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1791554": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0008764000000383021,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1982430": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006750999999667329,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3368054": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0010807999999542517,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5024644": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0008646999999655236,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4044590": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0010787999999593012,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3807114": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006958000000167885,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4823611": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005877999999484018,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2083969": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005092000000104235,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4117487": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005380000000059226,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3088145": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00047410000001946173,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4711578": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.000475100000016937,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4416336": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004734999999982392,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1753073": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004800000000386717,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3660450": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00045779999993555975,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5204781": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005276999999068721,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4017611": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005195000001094741,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4035020": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.000614499999983309,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2725352": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005238999999619409,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4122833": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004746999999269974,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2704868": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004724000000351225,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "907836": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00046050000003106106,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4004314": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00046880000002147426,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3460094": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004638999999997395,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3211234": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004663000000846296,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5356489": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005141000000321583,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4012083": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004794000000174492,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "861484": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005255999999462801,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3220340": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0010147000000415574,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1120171": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0009219999999459105,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3725208": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0009049999999888314,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5102537": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006418999998913932,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4386702": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0007646999999906257,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3480108": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0008914999999660722,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4264359": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005134000000452943,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "906760": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005028000000493194,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3391054": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00046510000004218455,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4861484": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0004691000000320855,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1479462": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00045660000000680157,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5195826": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005174000000351953,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4566667": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005725999999413034,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3520036": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005102999999735403,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3475669": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005002999999987878,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2706792": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00047900000004119647,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1556416": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00048300000003109744,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1560729": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005456999999751133,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4275052": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00047730000005685724,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "5117279": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00046270000007098133,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2676246": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006438000000343891,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "4773857": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.000642799999923227,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2726355": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006194000000050437,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3151015": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0005006000000093991,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3482733": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.000474400000030073,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3593643": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00045230000000628934,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "3711752": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.00045139999997445557,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "1461087": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0006559000000834203,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "2992360": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0011865000000170767,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    },
+    "906681": {
+      "tempo_metrics": {},
+      "beat_metrics": {},
+      "runtime_sec": 0.0012739000000010492,
+      "estimated_tempo": 0.0,
+      "reference_tempo": null,
+      "genre": "edm",
+      "dataset": "giantsteps"
+    }
+  }
+}

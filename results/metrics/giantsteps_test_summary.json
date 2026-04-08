@@ -1,0 +1,47 @@
+{
+  "autocorrelation": {
+    "overall": {
+      "tempo": {},
+      "beat": {},
+      "runtime_mean_sec": 0.09852734747474444,
+      "runtime_std_sec": 0.40560215965307816,
+      "n_tracks": 99
+    },
+    "by_genre": {
+      "edm": {
+        "tempo": {},
+        "beat": {}
+      }
+    }
+  },
+  "state_space": {
+    "overall": {
+      "tempo": {},
+      "beat": {},
+      "runtime_mean_sec": 0.053112655555552384,
+      "runtime_std_sec": 0.017630393960050974,
+      "n_tracks": 99
+    },
+    "by_genre": {
+      "edm": {
+        "tempo": {},
+        "beat": {}
+      }
+    }
+  },
+  "dbn": {
+    "overall": {
+      "tempo": {},
+      "beat": {},
+      "runtime_mean_sec": 0.000621202020206878,
+      "runtime_std_sec": 0.0002017422442738432,
+      "n_tracks": 99
+    },
+    "by_genre": {
+      "edm": {
+        "tempo": {},
+        "beat": {}
+      }
+    }
+  }
+}

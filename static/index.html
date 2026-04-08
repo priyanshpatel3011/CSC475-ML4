@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beat Tracking &amp; Tempo Estimation — CSC475</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="dashboard">
+        <header>
+            <h1>Comparative Analysis of Beat Tracking and Tempo Estimation Algorithms</h1>
+            <p class="subtitle">University of Victoria</p>
+        </header>
+
+        <main>
+            <!-- ── Left Sidebar: Controls ─────────────────────── -->
+            <aside class="sidebar panel glass">
+                <h2>⚙ Controls</h2>
+
+                <div class="control-group">
+                    <label for="algorithm-select">Algorithm</label>
+                    <select id="algorithm-select">
+                        <option value="realtime">BPM Analyzer Realtime</option>
+                        <option value="autocorrelation">Autocorrelation</option>
+                        <option value="state_space">State-Space Model</option>
+                    </select>
+                </div>
+
+                <div class="control-group">
+                    <label for="audio-input">Audio File</label>
+                    <input type="file" id="audio-input" accept="audio/*">
+                </div>
+
+                <button id="analyze-btn" class="btn primary">🔬 Analyze Audio</button>
+                <div class="loader" id="loader">
+                    <span class="spinner"></span> Processing…
+                </div>
+
+                <div class="results-container">
+                    <h3>Results</h3>
+                    <div class="metric">
+                        <span class="label">Estimated Tempo</span>
+                        <div class="metric-value-row">
+                            <span class="value" id="tempo-val">--</span>
+                            <span class="unit">BPM</span>
+                        </div>
+                    </div>
+                    <div class="metric">
+                        <span class="label">Algorithm</span>
+                        <div class="metric-value-row">
+                            <span class="value small" id="algo-label">—</span>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- ── Right: Visualization Panels ────────────────── -->
+            <section class="visualization-area">
+
+                <!-- Panel 1: Static Waveform + Beat Markers -->
+                <div class="viz-panel panel glass">
+                    <div class="viz-header">
+                        <h2>📊 Waveform &amp; Beat Markers</h2>
+                        <span class="badge">WaveSurfer</span>
+                    </div>
+                    <div class="waveform-container" id="waveform"></div>
+                    <div class="playback-controls">
+                        <button id="play-btn" class="btn secondary">▶ Play / Pause</button>
+                        <input type="range" id="zoom-slider" min="10" max="500" value="10">
+                        <label for="zoom-slider" class="zoom-label">Zoom</label>
+                    </div>
+                </div>
+
+                <!-- Panel 2: Live Frequency Spectrum -->
+                <div class="viz-panel panel glass">
+                    <div class="viz-header">
+                        <h2>🎵 Live Frequency Spectrum</h2>
+                        <span class="badge live-badge">LIVE</span>
+                    </div>
+                    <div class="spectrum-container">
+                        <canvas id="live-analyzer"></canvas>
+                    </div>
+                </div>
+
+            </section>
+        </main>
+
+        <footer>
+            <p>Priyanshkumar Patel · Dharnesh Somasundaram — CSC475 Group Project</p>
+        </footer>
+    </div>
+
+    <!-- WaveSurfer.js -->
+    <script src="https://unpkg.com/wavesurfer.js@7.8.0/dist/wavesurfer.min.js"></script>
+    <script src="https://unpkg.com/wavesurfer.js@7.8.0/dist/plugins/regions.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

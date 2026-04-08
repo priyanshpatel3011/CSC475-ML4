@@ -1,0 +1,155 @@
+{
+  "autocorrelation": {
+    "overall": {
+      "tempo": {},
+      "beat": {},
+      "runtime_mean_sec": 0.1895038873333321,
+      "runtime_std_sec": 0.27545323082466994,
+      "n_tracks": 300
+    },
+    "by_genre": {
+      "blues": {
+        "tempo": {},
+        "beat": {}
+      },
+      "classical": {
+        "tempo": {},
+        "beat": {}
+      },
+      "country": {
+        "tempo": {},
+        "beat": {}
+      },
+      "disco": {
+        "tempo": {},
+        "beat": {}
+      },
+      "hiphop": {
+        "tempo": {},
+        "beat": {}
+      },
+      "jazz": {
+        "tempo": {},
+        "beat": {}
+      },
+      "metal": {
+        "tempo": {},
+        "beat": {}
+      },
+      "pop": {
+        "tempo": {},
+        "beat": {}
+      },
+      "reggae": {
+        "tempo": {},
+        "beat": {}
+      },
+      "rock": {
+        "tempo": {},
+        "beat": {}
+      }
+    }
+  },
+  "state_space": {
+    "overall": {
+      "tempo": {},
+      "beat": {},
+      "runtime_mean_sec": 0.08649112333333278,
+      "runtime_std_sec": 0.046039368878953754,
+      "n_tracks": 300
+    },
+    "by_genre": {
+      "blues": {
+        "tempo": {},
+        "beat": {}
+      },
+      "classical": {
+        "tempo": {},
+        "beat": {}
+      },
+      "country": {
+        "tempo": {},
+        "beat": {}
+      },
+      "disco": {
+        "tempo": {},
+        "beat": {}
+      },
+      "hiphop": {
+        "tempo": {},
+        "beat": {}
+      },
+      "jazz": {
+        "tempo": {},
+        "beat": {}
+      },
+      "metal": {
+        "tempo": {},
+        "beat": {}
+      },
+      "pop": {
+        "tempo": {},
+        "beat": {}
+      },
+      "reggae": {
+        "tempo": {},
+        "beat": {}
+      },
+      "rock": {
+        "tempo": {},
+        "beat": {}
+      }
+    }
+  },
+  "dbn": {
+    "overall": {
+      "tempo": {},
+      "beat": {},
+      "runtime_mean_sec": 0.0004265876666651517,
+      "runtime_std_sec": 9.47007603733662e-05,
+      "n_tracks": 300
+    },
+    "by_genre": {
+      "blues": {
+        "tempo": {},
+        "beat": {}
+      },
+      "classical": {
+        "tempo": {},
+        "beat": {}
+      },
+      "country": {
+        "tempo": {},
+        "beat": {}
+      },
+      "disco": {
+        "tempo": {},
+        "beat": {}
+      },
+      "hiphop": {
+        "tempo": {},
+        "beat": {}
+      },
+      "jazz": {
+        "tempo": {},
+        "beat": {}
+      },
+      "metal": {
+        "tempo": {},
+        "beat": {}
+      },
+      "pop": {
+        "tempo": {},
+        "beat": {}
+      },
+      "reggae": {
+        "tempo": {},
+        "beat": {}
+      },
+      "rock": {
+        "tempo": {},
+        "beat": {}
+      }
+    }
+  }
+}
